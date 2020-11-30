@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1605036271 source:c:\users\jkim2\desktop\coding\c++ projects\customshutdowndialogv03\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+	<string>
+	<cstdlib>
+	<Functions.h>
+
+1605039244 c:\users\jkim2\desktop\coding\c++ projects\customshutdowndialogv03\functions.h
+
+1605041477 source:c:\users\jkim2\desktop\coding\c++ projects\customshutdowndialogv03\functions.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+	<string>
+	<cstdlib>
+	<Functions.h>
+
+1605041477 source:c:\users\jkim2\desktop\coding\c++ projects\customshutdowndialoguev03\functions.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+	<string>
+	<cstdlib>
+	<Functions.h>
+

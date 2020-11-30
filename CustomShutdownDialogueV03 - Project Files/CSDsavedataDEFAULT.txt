@@ -1,0 +1,6 @@
+testcommentlolthiscomputersucksbut
+1 shutdown -s -t 060 -d p:00:00 -c
+2 shutdown -s -t 120 -d p:00:00 -c
+3 shutdown -s -t 180 -d p:00:00 -c
+4 shutdown -s -t 240 -d p:00:00 -c
+5 shutdown -s -t 300 -d p:00:00 -c
